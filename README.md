@@ -34,7 +34,7 @@ Todo desde una consola, sin levantar sospechas y con resultados rápidos.
 ---
 
 ## 📸 Captura de pantalla 
-
+https://github.com/DarkHater01/K4L1NUX-OSINT/blob/main/screenshot.png
 ---
 
 - 🧪 Ejemplo de uso
