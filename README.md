@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🕵️‍♂️ K4L1NUX-OSINT
 
 **K4L1NUX-OSINT** es una herramienta en Bash para realizar reconocimiento OSINT a correos electrónicos, creada por el cubano 🔥 **K4L1NUX**.
